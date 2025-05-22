@@ -1,0 +1,43 @@
+From: project.manager@example.com
+To: team@example.com
+Subject: Weekly Project Status Update
+Date: Mon, 15 Jan 2024 10:30:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Dear Team,
+
+I hope this email finds you well. Here's the weekly status update for our ongoing projects:
+
+1. Project Alpha
+- Development Phase: 75% complete
+- Current Focus: Backend API integration
+- Next Milestone: User testing scheduled for next week
+- Blockers: None
+
+2. Project Beta
+- Development Phase: 40% complete
+- Current Focus: UI/UX implementation
+- Next Milestone: Feature freeze in two weeks
+- Blockers: Waiting for design assets from external team
+
+3. Project Gamma
+- Development Phase: 90% complete
+- Current Focus: Performance optimization
+- Next Milestone: Production deployment scheduled for Friday
+- Blockers: None
+
+General Updates:
+- New team member onboarding completed successfully
+- Infrastructure upgrades scheduled for next month
+- Team building event planned for next Friday
+
+Action Items:
+1. Review and provide feedback on Project Alpha's API documentation
+2. Complete the UI components for Project Beta by Wednesday
+3. Prepare deployment checklist for Project Gamma
+
+Please let me know if you have any questions or need clarification on any of these points.
+
+Best regards,
+Project Manager 
